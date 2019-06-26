@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Ch06_TicketSpinner</string>
+    <string-array name="cniemas">
+        <item>台北影城</item>
+        <item>板橋影城</item>
+        <item>台中影城</item>
+        <item>台南影城</item>
+        <item>高雄影城</item>
+    </string-array>
+    <string-array name="times">
+        <item>早鳥場</item>
+        <item>中午場</item>
+        <item>午夜場</item>
+    </string-array>
+</resources>
